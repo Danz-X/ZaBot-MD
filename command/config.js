@@ -15,10 +15,10 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ OTHER ]━━━━━━━━━━━━━━━━━//
 
-global.ownername = 'ozan'
-global.owner = ['6281228402912']
-global.packname = 'punya elu 🐥🐥🐥 '
-global.author = ' 🐦🐦🐦 🐦🐦🐦🐦🐦🐦\n'
+global.ownername = 'Raditya'
+global.owner = ['6281252009563']
+global.packname = 'Bacot Dexk '
+global.author = '\n\n\n\nWIBU'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
